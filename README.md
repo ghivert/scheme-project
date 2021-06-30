@@ -42,9 +42,9 @@ Si besoin, vous trouverez une transcriptions des types plus bas.
 
 ```bash
 # SSH Users
-git clone git@github.com/ghivert/scheme-project-clear.git
+git clone git@github.com/ghivert/scheme-project.git
 # HTTPS Users
-git clone https://github.com/ghivert/scheme-project-clear.git
+git clone https://github.com/ghivert/scheme-project.git
 ```
 
 - [Installer OPAM](https://opam.ocaml.org/doc/Install.html)
